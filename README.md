@@ -1,5 +1,5 @@
 # Custom-Scale-View
-A custom UI component for easily selecting the desired value on a scale
+A custom UI component for easily selecting the desired value on a scale.
 
 ## Requirements
 
